@@ -8,3 +8,5 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/orzamir/) or via email.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm passionate about blending **technology and data** to drive real-world impact, and I enjoy staying up-to-date with the latest tech trends—especially when it comes to **AI and robotics**.
+
+![GitHub Snake Contribution Grid Animation](https://raw.githubusercontent.com/or-zamir/or-zamir/output/github-contribution-grid-snake-dark.svg)
